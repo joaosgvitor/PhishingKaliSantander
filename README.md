@@ -13,6 +13,6 @@ setoolkit
 
 Add IP máquina
 
-Insira a URL www.facebbok.com
+Insira a URL www.facebook.com
 
 Criado uma página falsa hospedada na máquina
